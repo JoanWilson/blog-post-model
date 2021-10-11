@@ -1,0 +1,26 @@
+body {
+    margin:0;
+}
+section {
+    padding: 0% 15% 0% 15%;
+    margin:0;
+}
+.container {
+    background-color:#fffafa;
+    margin:0;
+    padding: 25px 60px 25px 60px;
+}
+hr {
+    margin:0;
+}
+.date {
+    font-family: 'Roboto', sans-serif;
+    color:#008080;
+    font-weight: bold;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+.post-content {
+    font-family: 'Open Sans', sans-serif;
+}
